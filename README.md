@@ -39,8 +39,6 @@ Please, list 5-10 values and elaborate briefly WHY do you value that particular 
    * Why? `[YOUR ANSWER GOES HERE]`
 1. Value: `[YOUR ANSWER GOES HERE]`
    * Why? `[YOUR ANSWER GOES HERE]`
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
 
 For your inspiration (random order):
 
