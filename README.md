@@ -44,6 +44,8 @@ Please, list 5-10 values and elaborate briefly WHY do you value that particular 
 
 For your inspiration (random order):
 
+
+| | | | | |
 |---|---|---|---|---|
 | Challenges | Chance to learn | Healthy environment | Consistent innovation | People-orientation |
 | Teamwork | Coffee | Being appreciated | 9-5pm | Positive attitude |
