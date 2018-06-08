@@ -14,6 +14,8 @@ The purpose of this questionnaire is to better understand your **values, abiliti
 
 Please, create a new document on Google Drive. Copy-paste this file from GitHub to the GDoc and fill in `[YOUR ANSWER GOES HERE]`
 
+(i) It may take 40-60 mionutes to think it through properly and answer.
+
 # Values
 
 ### What do you value most and WHY?
