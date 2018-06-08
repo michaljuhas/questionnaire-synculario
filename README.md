@@ -21,14 +21,8 @@ Please, create a new document on Google Drive. Copy-paste this file from GitHub 
 ### What do you value most and WHY?
 Please, list 5-10 values and elaborate briefly WHY do you value that particular area, what does it effectively mean for you?
 
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
+For your inspiration, you can see a random list of values in a table below.
+
 1. Value: `[YOUR ANSWER GOES HERE]`
    * Why? `[YOUR ANSWER GOES HERE]`
 1. Value: `[YOUR ANSWER GOES HERE]`
@@ -44,7 +38,6 @@ Please, list 5-10 values and elaborate briefly WHY do you value that particular 
 
 For your inspiration (random order):
 
-
 | | | | | |
 |---|---|---|---|---|
 | Challenges | Chance to learn | Healthy environment | Consistent innovation | People-orientation |
@@ -58,7 +51,7 @@ For your inspiration (random order):
 
 # Abilities
 
-### What are your strengths?
+### What are your key strengths?
 `[YOUR ANSWER GOES HERE]`
 
 ### What are your weakneses?
@@ -78,7 +71,7 @@ For your inspiration (random order):
 
 # Passion & motivation
 
-### What are you passionate about?
+### What are you super passionate about? What wakes you up in the morning?
 `[YOUR ANSWER GOES HERE]`
 
 ### What wakes you up in the morning?
