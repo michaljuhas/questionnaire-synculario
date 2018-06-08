@@ -2,60 +2,56 @@
 
 The purpose of this questionnaire is to better understand your **values, abilities, and skills.**
 
-1. **First, tell us more about your values**
-  * Demonstrate culture fit
-1. **Second, tell us more about your abilities**
-  * What are your strengths?
-  * What kind of person are you?
-1. **Third, tell us more about your skillset**
-  * Demonstrate you are strong technically and able to learn fast
+1. **First, you will tell us more about your values**
+   * Do we share the same core values?
+1. **Second, you will uncover some of your key abilities**
+   * What are your strengths? Weaknesses?
+   * What kind of person are you?
+1. **Third, you will shed some light on your current skillset**
+   * Demonstrate you are strong technically and able to learn fast
 
 # Guidelines
 
 Please, create a new document on Google Drive. Copy-paste this file from GitHub to the GDoc and fill in `[YOUR ANSWER GOES HERE]`
 
-# What do you value most and WHY?
-Challenges
-Teamwork
-Individualism
-Result-orientation
-Chance to learn
-Healthy environment
-Consistent innovation
-People-orientation
-Coffee
-Tea
-Meaningful work
-Money
-Trust
-Healthy competition
-Corporate hierarchy
-Relationships
-Enough communication
-Sustainability
-High-tech workspace
-Understanding
-Being appreciated
-9-5pm
-Transparency
-Fun
-Work-life balance
-Excitement
-Positive attitude
-Creativity
-Individual coaching
-Understanding
-Celebrated achievements
-Vision
-Discipline
-Culture
-Passion
-Loyalty
-High-performance team
-Family-like environment
-Work from home
-Teamwork
-Self-realization
+# Values
+
+### What do you value most and WHY?
+Please, list 5-10 values and elaborate briefly WHY do you value that particular area, what does it effectively mean for you?
+
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+1. Value: `[YOUR ANSWER GOES HERE]`
+   * Why? `[YOUR ANSWER GOES HERE]`
+
+For your inspiration (random order):
+
+| Challenges | Chance to learn | Healthy environment | Consistent innovation | People-orientation |
+| Teamwork | Coffee | Being appreciated | 9-5pm | Positive attitude |
+| Individualism | Creativity | Individual coaching | Understanding | Celebrated achievements |
+| Result-orientation | Vision | Discipline | Culture | Passion |
+| Tea | Transparency | Fun | work-life balance | Excitement |
+| Meaningul work | Money | Trust | Healthy competition | Corporate hierarchy |
+| Relationships | Enough communication | Sustainability | High-tech workspace | Understanding |
+| Loyalty | High-performance team | Family-like environment | Work from home | Self-realization |
 
 # Abilities
 
