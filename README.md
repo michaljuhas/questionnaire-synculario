@@ -3,10 +3,10 @@
 The purpose of this questionnaire is to better understand your **values, abilities, and skills.**
 
 1. **First, you will tell us more about your values**
-   * Do we share the same core values?
+   * Let's find out if we share the same core values.
 1. **Second, you will uncover some of your key abilities**
    * What are your strengths? Weaknesses?
-   * What kind of person are you?
+   * What kind of projects do you want to work on?
 1. **Third, you will shed some light on your current skillset**
    * Demonstrate you are strong technically and able to learn fast
 
@@ -65,6 +65,15 @@ For your inspiration (random order):
 `[YOUR ANSWER GOES HERE]`
 
 ### What is your personality according to [16personalities.com](https://www.16personalities.com)?
+`[YOUR ANSWER GOES HERE]`
+
+### What kind of projects do you want to work on?
+`[YOUR ANSWER GOES HERE]`
+
+### What team roles fit you best?
+`[YOUR ANSWER GOES HERE]`
+
+### What project roles fit you best?
 `[YOUR ANSWER GOES HERE]`
 
 # Passion & motivation
