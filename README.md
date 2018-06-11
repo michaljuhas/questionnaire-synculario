@@ -19,7 +19,7 @@ Please, create a new document on Google Drive. Copy-paste this file from GitHub 
 # Values
 
 ### What do you value most and WHY?
-Please, list 5-10 values and elaborate briefly WHY do you value that particular area, what does it effectively mean for you?
+Please, list 4-5 values and elaborate briefly WHY do you value that particular area, what does it effectively mean for you?
 
 For your inspiration, you can see a random list of values in a table below.
 
@@ -29,12 +29,7 @@ For your inspiration, you can see a random list of values in a table below.
    * Why? `[YOUR ANSWER GOES HERE]`
 1. Value: `[YOUR ANSWER GOES HERE]`
    * Why? `[YOUR ANSWER GOES HERE]`
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
-1. Value: `[YOUR ANSWER GOES HERE]`
-   * Why? `[YOUR ANSWER GOES HERE]`
+1. ...
 
 For your inspiration (random order):
 
@@ -51,10 +46,7 @@ For your inspiration (random order):
 
 # Abilities
 
-### What are your key strengths?
-`[YOUR ANSWER GOES HERE]`
-
-### What are your weakneses?
+### What tech stack are you most comfortable with? (your strength?)
 `[YOUR ANSWER GOES HERE]`
 
 ### What is your personality according to [16personalities.com](https://www.16personalities.com)?
@@ -74,9 +66,6 @@ For your inspiration (random order):
 ### What are you super passionate about? What wakes you up in the morning?
 `[YOUR ANSWER GOES HERE]`
 
-### What wakes you up in the morning?
-`[YOUR ANSWER GOES HERE]`
-
 ### What do you think about (or work on) on Saturday afternoon?
 `[YOUR ANSWER GOES HERE]`
 
@@ -88,15 +77,12 @@ For your inspiration (random order):
 ### If not, can you share code you have written with us?
 `[YOUR ANSWER GOES HERE]`
 
-# Learnings
+# Learnings & tech mastery
 
 ### What have you learned in the last few months?
 `[YOUR ANSWER GOES HERE]`
 
 ### How do you learn about new technologies and best practices?
-`[YOUR ANSWER GOES HERE]`
-
-### Tell us more about your best practices:
 `[YOUR ANSWER GOES HERE]`
 
 ### Which source control do you use and why?
